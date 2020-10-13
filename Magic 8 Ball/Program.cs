@@ -4,7 +4,7 @@ namespace Magic_8_Ball
 {
     class Program
     {
-        // ok
+        
         static Random randomObject = new Random();
         static void Main(string[] args)
         {
